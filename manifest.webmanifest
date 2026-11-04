@@ -1,0 +1,18 @@
+{
+  "name": "English A1 · by Feynman",
+  "short_name": "EN A1",
+  "description": "Курс английского языка — уровень A1, 12 недель по методу Фейнмана",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14285a",
+  "theme_color": "#14285a",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
